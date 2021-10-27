@@ -1,0 +1,11 @@
+body{
+    font-family: tahoma;
+}
+p.satu{
+    color: green;
+}
+p.dua{
+    color:white;
+    background-color:black;
+    padding: 40px;
+}
